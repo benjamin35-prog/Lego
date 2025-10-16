@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <title>Leaderboards</title>
+    <link href="css/reset.css" rel="stylesheet" type="text/css">
+    <link href="css/web.css" rel="stylesheet" type="text/css">
+    <meta name="description" content="webdesign en ontwikkeling">
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+    <h1>Overall Leaderboards</h1>
+
+    <a href="paginas/hobbies.html">Linkanderpagina</a><br>
+
+    <h2>Total Wins Leaderboard</h2>
+
+    <p>
+
+    </p>
+
+    <h2>Point Leaderboard?</h2>
+
+        
+
+    <p>
+        <br>
+    </p>
+    
+    
+   
+</body>
+</html>
